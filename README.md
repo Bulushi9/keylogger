@@ -78,6 +78,7 @@ This project contains three versions of a simple keylogger implemented in Python
 - screenshot_2024-10-30_14-31-00.png
 - screenshot_2024-10-30_14-32-00.png
 
+![Keylogger Output Example](img/image.png)
 
 ## Usage
 Stopping the Script: Each script can be stopped by pressing Ctrl + C in the terminal where it is running.
