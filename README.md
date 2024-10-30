@@ -54,7 +54,7 @@ This project contains three versions of a simple keylogger implemented in Python
     2024-10-30 14:30:02: b
     2024-10-30 14:30:03: [ENTER]
     2024-10-30 14:30:04: d 
-    ```
+   ```
 
 ### 3. Keylogger with Screenshots (`keyloggerWithScreenshot.py`)
 
